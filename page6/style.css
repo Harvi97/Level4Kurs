@@ -1,0 +1,34 @@
+div#block{
+	width: auto;
+	margin: 0 auto;
+	background-color: bisque
+}
+div.header{
+	width: auto;
+	height: 150px;
+	background-color: yellow;
+}
+div.left_col{
+	width: 173px;
+	height: auto;
+	float: left;
+	border-right: 2px dashed black;
+	border-bottom:2px dashed black;
+
+}
+div.right_col{
+	width: auto;
+	float left;
+}
+div.footer{
+	width: auto;
+	height: 95px;
+	background-color: green;
+	clear: both;
+}
+body{
+	background-color: bisque
+}
+#e1{
+	margin-left: 180px;
+}
