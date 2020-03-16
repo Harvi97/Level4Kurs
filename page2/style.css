@@ -1,0 +1,65 @@
+div#block{
+	width: auto;
+	margin: 0 auto;
+	background-color: bisque
+}
+div.header{
+	width: auto;
+	height: 150px;
+	background-color: yellow;
+}
+div.left_col{
+	width: 173px;
+	height: auto;
+	float: left;
+	border-right: 2px dashed black;
+	border-bottom:2px dashed black;
+}
+div.right_col{
+	width: auto;
+	float left;
+	margin-left: 180px;
+}
+div.footer{
+	width: auto;
+	height: 95px;
+	background-color: green;
+	clear: both;
+}
+
+h1{font-family: Gavena, Arial, Hevletical, sans-serif;}
+h2{font-family: "Comic Sans MS" Cursive; }
+h3{font-family: Torhok;}
+p{font-family: Georgia, "Times New Roman", Times, serif;}
+.letter{
+	color: red;
+	font-size: 200%;
+	font-family: serif;
+}
+.bu{
+	font-weight: bold;
+	color: blue;
+	text-decoration: underline;
+}
+p#aa, p#bb, p#cc, p#ss, p#xx, p#zz, p#vv, p#nn,
+p#mm, p#dd, p#gg{
+	font-family: Verdana, sans-serif;
+}
+p#aa{font-style:normal;}
+p#bb{font-style:oblique; }
+p#cc{font-style:italic;}
+p#ss{font-variant:small-caps; }
+p#xx{font-weight:bold;}
+p#zz{font-weight:400;}
+p#vv{font-weight:700;}
+p#nn{font-size: 1.2em;}
+p#mm{text-decoration:line-through;}
+p#dd{text-decoration:overline;}
+p#gg{text-decoration:underline;}
+
+body{
+	background-color: bisque
+}
+#e1{
+	margin-left: 180px;
+}
